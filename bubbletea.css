@@ -1,0 +1,40 @@
+body
+{
+	background-image: url("images/bubbleteaimage1.jpg");
+	background-attachment:fixed;
+	background-repeat:no-repeat;
+	margin-top: -15px;
+	background-size:cover;
+	font-size:20px;
+}
+
+#info
+{
+	position: relative;
+	background-color:white;
+	width: 900px;
+	left:50%;
+	min-height: 100%;
+	top: 70px;
+	margin-left: -480px;
+	margin-right: 20px;
+	margin-bottom: -200px;
+	padding: 50px;
+	padding-top: 20px;
+	border: 1px solid black;
+}
+	
+p 
+{
+	font-size:20px;
+}
+
+h1
+{
+	color:slateblue;
+}
+
+h2 
+{
+	color:#6495ED;
+}
